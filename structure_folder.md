@@ -1,0 +1,35 @@
+```
+└── 📁banking-system-alHasra
+    └── 📁config
+        └── bank.sql
+        └── config.php
+    └── 📁public
+        └── create_user.php
+        └── dashboard.php
+        └── index.php
+        └── login.php
+        └── styles.css
+    └── 📁src
+        └── 📁controllers
+            └── LoginController.php
+            └── TransactionController.php
+        └── 📁models
+            └── Account.php
+            └── User.php
+        └── 📁utils
+            └── helpers.php
+        └── 📁views
+            └── deposit.php
+            └── error.php
+            └── home.php
+            └── login.php
+            └── withdraw.php
+    └── 📁storage
+        └── 📁logs
+            └── .gitkeep
+    └── 📁tests
+        └── add_user.php
+        └── generate_hash.php
+        └── test_password.php
+        └── TransactionTest.php
+```
